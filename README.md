@@ -9,25 +9,25 @@ Here are some projects I've made or contributed to
 
 ### Manufacturing and Logistics Optimizations 📦
 
-- Warehouse Routing and Dispatching Optimization <a href="https://github.com/coleandreoli/warehouseTSP" target="_blank">warehouseTSP</a>
+- Warehouse Routing and Dispatching Optimization [warehouseTSP](https://github.com/coleandreoli/warehouseTSP)
 
-- Job Shop Scheduling <a href="https://github.com/agritheory/inventory_tools/pull/116" target="_blank">inventory_tools</a>
-- Delivery Vehicle Optimization <a href="https://github.com/agritheory/fleet" target="_blank">fleet</a>
-- MQTT PLC Alarms with GraphQL <a href="https://github.com/agritheory/mqtt-pg-logger" target="_blank">mqtt-pg-logger</a>
+- Job Shop Scheduling [inventory_tools](https://github.com/agritheory/inventory_tools/pull/116)
+- Delivery Vehicle Optimization [fleet](https://github.com/agritheory/fleet)
+- MQTT PLC Alarms with GraphQL [mqtt-pg-logger](https://github.com/agritheory/mqtt-pg-logger)
 - Manufacturing Capacity Planning with PostgreSQL (link coming soon)
 
 ### Rockets 🚀
 
-- Nose Cone Geometry Tool <a href="https://github.com/coleandreoli/rocket-component-tools" target="_blank">RocketComponentTools</a>
+- Nose Cone Geometry Tool [RocketComponentTools](https://github.com/coleandreoli/rocket-component-tools)
   - Link to the [app](https://coleandreoli-rocket-component-tools-main-blwurh.streamlit.app/)
 
-- Custom Avionics Code <a href="https://github.com/coleandreoli/Blue_Whale_Avionics" target="_blank">BlueWhaleAvionics</a>
+- Custom Avionics Code [BlueWhaleAvionics](https://github.com/coleandreoli/Blue_Whale_Avionics)
 
-- Da' Blue Whale <a href="https://www.youtube.com/watch?v=qnxuWXq1dNo" target="_blank">Launch Video</a>
+- Da' Blue Whale [Launch Video](https://www.youtube.com/watch?v=qnxuWXq1dNo)
 
-- BLT Club <a href="https://www.youtube.com/watch?v=TydWIRtoOMM" target="_blank">Static Fire Video</a>
+- BLT Club [Static Fire Video](https://www.youtube.com/watch?v=TydWIRtoOMM)
 
 ### Space 🌌
 
-- Space Safety ML <a href="https://github.com/coleandreoli/SpaceDebrisCollisionPredictor" target="_blank">SpaceDebrisCollisionPredictor</a>
+- Space Safety ML [SpaceDebrisCollisionPredictor](https://github.com/coleandreoli/SpaceDebrisCollisionPredictor)
 - TinyGS Satellite Network Quality of Service (WIP Master's Thesis)
