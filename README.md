@@ -31,3 +31,7 @@ Here are some projects I've made or contributed to
 
 - Space Safety ML [SpaceDebrisCollisionPredictor](https://github.com/coleandreoli/SpaceDebrisCollisionPredictor)
 - TinyGS Satellite Network Quality of Service (WIP Master's Thesis)
+
+### Drones
+
+- SUAS/SAETA Autonomous Drone Competition - Detection with YOLO [SAETA](https://github.com/coleandreoli/SAETA)
