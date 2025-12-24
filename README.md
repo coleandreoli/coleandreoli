@@ -35,7 +35,7 @@ Here are some projects I've made or contributed to
 
 - Space Safety ML [SpaceDebrisCollisionPredictor](https://github.com/coleandreoli/SpaceDebrisCollisionPredictor)
   
-- TinyGS Satellite Network Quality of Service (WIP Master's Thesis)
+- TinyGS Satellite Network Quality of Service [TinyGS_QoS](https://github.com/coleandreoli/TinyGS_QoS), [app](https://tinygsqos.streamlit.app/)
 
 ### Drones
 
